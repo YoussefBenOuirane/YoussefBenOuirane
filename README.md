@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoussefBenOuirane
 - 👀 I’m interested learning mobile developement 
-- 🌱 I’m currently learning flutter (dart)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter 
+
 
 
 <!---
